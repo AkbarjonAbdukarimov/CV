@@ -5,14 +5,14 @@ const Nav = () => {
     <div>
       <nav className="navbar ">
         <div className="container">
-          <Link className="navbar-brand fs-3 text-white " to="/resume">
+          <Link className="navbar-brand fs-3 text-white " to="/">
             AA.
           </Link>
 
           <div className="d-flex flex-row justify-content-end">
             <ul className="navbar-nav d-flex flex-row justify-content-md-evenly">
               <li className="mx-3 nav-item">
-                <Link className="nav-link " to="/resume">
+                <Link className="nav-link " to="/">
                   CV
                 </Link>
               </li>
