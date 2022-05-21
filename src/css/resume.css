@@ -1,0 +1,28 @@
+h1 {
+  background: linear-gradient(
+    89.81deg,
+    #9845e8 -1.72%,
+    #33d2ff 54.05%,
+    #dd5789 99.78%
+  );
+  font-size: 2rem;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  font-style: normal;
+  font-weight: 300;
+  color: #ffffff;
+}
+ul {
+  list-style: none;
+  color: white;
+}
+@media only screen and (min-width: 550px) {
+  h1 {
+    font-size: 5rem;
+    line-height: 6rem;
+  }
+}

@@ -1,0 +1,7 @@
+.contacts img {
+  width: 32px;
+  margin: 0;
+}
+.contacts > div {
+  width: 100%;
+}

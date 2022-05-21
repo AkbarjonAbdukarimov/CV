@@ -1,0 +1,13 @@
+.nav-link :hover {
+  text-decoration: underline;
+}
+.nav-link {
+  color: white;
+  transition: 300ms;
+}
+.nav-link:hover {
+  color: white;
+  text-decoration: underline;
+  padding-bottom: 5px;
+  transition: 300ms;
+}
