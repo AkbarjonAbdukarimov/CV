@@ -1,4 +1,4 @@
 # cv is my Personal Porfolio Page
 
-##Preview
+#Preview
 https://akbarjonabdukarimov.github.io/cv/
